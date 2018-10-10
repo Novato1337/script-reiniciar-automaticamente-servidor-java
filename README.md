@@ -1,6 +1,4 @@
 # Script para reiniciar automaticamente servidor em Java
-Um script que reinicia automaticamente um servidor em java (Útil para servidores Bukkit/BungeeCord)
-
 Ja teve o problema de apos criar sua screen e iniciar seu servidor e do nada da algum problema e ele crasha?
 
 Dai você precisa restaurar a screen e iniciar tudo de novo... E se você não tiver online, ai sim é problema!
@@ -20,6 +18,6 @@ Apos isso de permissão para o script (com privilégios de super usuário)
 
 sudo chmod 777 start.sh
 
-E inicie o servidor 
+E inicie o servidor (com privilégios de super usuário)
 
-./start.sh
+sudo ./start.sh
