@@ -16,8 +16,8 @@ sudo nano start.sh (altere a Memoria em -Xmx256M(Nesse exemplo o maximo de memor
 
 Apos isso de permissão para o script (com privilégios de super usuário)
 
-sudo chmod 777 start.sh
+sudo chmod +x start.sh
 
-E inicie o servidor (com privilégios de super usuário)
+E inicie o servidor
 
 sudo ./start.sh
