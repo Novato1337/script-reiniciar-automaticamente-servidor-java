@@ -8,7 +8,7 @@ Criei um script básico para você iniciar o seu servidor e quando ele for desli
 Como usar: 
 Apos abrir sua screen e entrar na pasta do seu servidor use o wget para baixar o script
 
-wget https://raw.githubusercontent.com/Novato1337/script-reiniciar-automaticamente-servidor-java/master/start.sh
+wget https://raw.githubusercontent.com/Veteran0/script-reiniciar-automaticamente-servidor-java/master/start.sh
 
 Apos ter baixado use o nano (ou algum editor de textos de sua preferencia) com privilégios de super usuário para editar a jar e a memoria dentro do script
 
